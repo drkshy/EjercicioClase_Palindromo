@@ -2,6 +2,12 @@ package com.pperezm;
 
 import java.util.*;
 
+/*
+@author Pablo Arturo Pérez Mata
+@email pablo.arturo.perez@gmail.com
+@description Clase evaludadora de palindromos
+*/
+
 public class Main {
     public static void main(String[] args) {
         String cadena ="somos";
